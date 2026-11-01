@@ -1,6 +1,6 @@
 # Croatian/Hungarian playing cards PNG images
 
-Images of each card from full deck of Hungarian playing cards (32 cards) also know as European / Balkan / German type / Tell / Magyar kártya / Mariášové karty.
+Images of each card from full deck of Croatian/Hungarian playing cards (32 cards) also know as European / Balkan / German type / Tell / Magyar kártya / Mariášové karty.
 In addition back side of one of the cards => 32+1 images of cards.
 
 ![preview of all cards](https://github.com/tomasdrus/hungarian-playing-cards/blob/master/all-cards-preview.jpg?raw=true)
